@@ -1,4 +1,4 @@
-## Hi there 👋
+##  Samruddhi Charitable Trust
 
 <!--
 **SamruddhiTrust/SamruddhiTrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
